@@ -2,8 +2,11 @@
   "name": "image-uploader",
   "version": "0.0.0",
   "description": "ImageUploader",
-  "main": "app.js",
+  "main": "testPipes.js",
   "author": {
     "name": "pradeep"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
   }
 }
