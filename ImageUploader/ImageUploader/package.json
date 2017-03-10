@@ -1,0 +1,9 @@
+{
+  "name": "image-uploader",
+  "version": "0.0.0",
+  "description": "ImageUploader",
+  "main": "app.js",
+  "author": {
+    "name": "pradeep"
+  }
+}
